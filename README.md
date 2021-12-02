@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently learning Flutter and Dart.
 - [Notion Resume](https://riudiu.notion.site/d39fb803d5d14daa8f0391f4ca87163c)
 <!--
 - 🔭 I’m currently working on ...
