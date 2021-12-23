@@ -17,6 +17,8 @@
 <br>
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Dart-02458D?style=flat-square&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-00CAFF?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-D77310?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-64BC4B?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-DC0D15?style=flat-square&logo=html5&logoColor=white" />
