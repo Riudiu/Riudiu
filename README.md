@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -  &nbsp; 🌱 &nbsp;  I’m currently using Flutter and Dart.
--  &nbsp; 🔭 &nbsp;  Interested in BlockChain, Commerce, Contents platform
+-  &nbsp; 🔭 &nbsp;  Interested in BlockChain, Fintech, Commerce, Contents domains
 <!-- - [Notion Resume](https://riudiu.notion.site/d39fb803d5d14daa8f0391f4ca87163c) -->
 <!--
 - 🔭 I’m currently working on ...
