@@ -12,15 +12,15 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:lacvert13@gmail.com">
-<img src=https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://riudiu.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/blog-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white&color=000000 style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/blog-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white& style="margin-bottom: 5px;" />
 </a>
 <!--
 </a>
 <a href="https://riudiu.notion.site/d39fb803d5d14daa8f0391f4ca87163c" target="_blank">
-<img src=https://img.shields.io/badge/resume-000000.svg?&style=for-the-badge&logo=notion&logoColor=white&color=000000 style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/resume-000000.svg?&style=for-the-badge&logo=notion&logoColor=white style="margin-bottom: 5px;" />
 </a>
 -->
 
@@ -29,9 +29,9 @@
 <br>
 
 
-### 🌱 &nbsp;  I’m currently using Flutter and Dart
-### 💻 &nbsp;  working on developing flutter application at G&ONE
-### 🔭 &nbsp;  Interested in BlockChain, Fintech, Commerce, Contents domains
+#### 🌱 &nbsp;  I’m currently using Flutter and Dart
+#### 💻 &nbsp;  working on developing flutter application at G&ONE
+#### 🔭 &nbsp;  Interested in BlockChain, Fintech, Commerce, Contents domains
 
 <!-- - [Notion Resume](https://riudiu.notion.site/d39fb803d5d14daa8f0391f4ca87163c) -->
 <!--
