@@ -52,11 +52,11 @@
 <a href="mailto:1213terry@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>&nbsp
  -->
  
- <!-- 
-[![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Danny-Yun&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
-### Tech Stack :zap:
+[![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Danny-Yun&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Dart-02458D?style=flat&logo=Dart&logoColor=white"/>&nbsp
