@@ -57,5 +57,5 @@
   <img src="https://img.shields.io/badge/Dart-02458D?style=flat&logo=Dart&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Flutter-00CAFF?style=flat&logo=Flutter&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp
+  <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp -->
 </div>
