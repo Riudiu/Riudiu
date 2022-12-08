@@ -1,21 +1,20 @@
 
 ## Hi There 👋
 
-
-<a href="https://github.com/Danny-Yun" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/jiwoo-yun" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <!--
+<a href="https://github.com/Danny-Yun" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://instagram.com/riudiux" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
--->
 <a href="mailto:lacvert13@gmail.com">
 <img src=https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
 </a>
+-->
 <a href="https://riudiu.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/blog-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white& style="margin-bottom: 5px;" />
 </a>
