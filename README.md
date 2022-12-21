@@ -48,7 +48,7 @@
 <br>
 
 
-[![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Danny-Yun&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Riudiu&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tech Stack
