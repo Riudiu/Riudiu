@@ -30,8 +30,10 @@
 
 
 #### 🌱 &nbsp;  I’m currently using Flutter and Dart
-#### 💻 &nbsp;  working on developing flutter application at G&ONE
-#### 🔭 &nbsp;  Interested in BlockChain, Fintech, Commerce, Contents domains
+ 
+ 💻 &nbsp;  working on developing flutter application at G&ONE
+ 
+ 🔭 &nbsp;  Interested in BlockChain, Fintech, Commerce, Contents domains
 
 <!-- [Notion Resume](https://riudiu.notion.site/d39fb803d5d14daa8f0391f4ca87163c) -->
 <!--
