@@ -46,12 +46,22 @@
 - ⚡ Fun fact: ...
 -->
 
+<!--
+#### | 이력 |
 
+🐾 (주)지앤원 BE 22.05 ~ ing <br>
+🔥 TeamSparta 내일배움캠프 1기 <br>
+🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 대상 <br>
+🦁 SCH LikeLion 8th <br>
+-->
 <br>
 
 
-[![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Riudiu&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Riudiu&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Riudiu&layout=compact&langs_count=8&theme=buefy"/>
+-->
 
 ### Tech Stack
 
