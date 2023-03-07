@@ -57,8 +57,9 @@
 <br>
 
 
-
+<!--
 [![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Riudiu&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Riudiu&layout=compact&langs_count=8&theme=buefy"/>
 -->
