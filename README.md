@@ -25,7 +25,7 @@
 </a>
 -->
 
-
+<!--
 <br>
 
 
@@ -64,6 +64,7 @@
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Riudiu&layout=compact&langs_count=8&theme=buefy"/>
 -->
 
+<!--
 ### Tech Stack
 
 <div align="left">
