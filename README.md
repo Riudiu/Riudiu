@@ -54,14 +54,12 @@
 🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 대상 <br>
 🦁 SCH LikeLion 8th <br>
 -->
-<br>
-
 
 <!--
-[![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Riudiu&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Riudiu&layout=compact&langs_count=8&theme=buefy"/>
+<p></p>
+
+[![Jiwoo Yun's github stats](https://github-readme-stats.vercel.app/api?username=Riudiu&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Riudiu&layout=compact&langs_count=8&theme=buefy"/>
 -->
 
 <!--
